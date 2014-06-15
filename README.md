@@ -40,9 +40,9 @@ $ python
 >>> s = Sweepstake(teams, people)
 >>> s.assign()
 
-You: Fra, Costa Rica
-Me: Arg, Ivory Coast
-Them: Bra, Ger
+Me: Ivory Coast, Costa Rica
+You: Bra, Ger
+Them: Fra, Arg
 
 ```
 
