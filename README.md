@@ -52,4 +52,5 @@ Them: Fra, Arg
 2. Check teams/people input and flag for errors
 3. Option to set only one team per person
 4. Allow multiple people to have the same team (e.g. if more people than teams)
-5. ...
+5. Add an option for the seed for consistency in random number generation
+6. ... 
